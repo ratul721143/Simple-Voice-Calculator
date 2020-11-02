@@ -1,5 +1,6 @@
 # My Simple Voice Calculator
-This is a simple voice calculator by which you can calculate the basic calculation like +,-,/,* ,mod etc. 
+This is a simple voice calculator by which you can calculate the basic calculation like +,-,/,* ,mod etc. <br/>
+>I  heve used **web recognition api by bulid in fuctions and methods**  for voice recognition
 
 **The image of the Calculator is Given Below:**
 
@@ -26,7 +27,7 @@ I uses the folling technologies and tools
  > **Javasript**
  
  >****
- >**Vs Code** - Text Editor
+ >**Vs Code** - Text Editor <br/>
  >**web recognition api**  for voice recognition
 
 
