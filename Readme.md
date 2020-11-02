@@ -22,7 +22,7 @@ This is a simple voice calculator by which you can calculate the basic calculati
 ### Technologies and Tools
 I uses the folling technologies and tools
  > **Html**       
- > **css**
+ > **css** <br/>
  > **Javasript**
  
  >****
